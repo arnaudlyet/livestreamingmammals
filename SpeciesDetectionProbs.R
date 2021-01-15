@@ -77,8 +77,8 @@ sink()
 
 ######################################################################
 ### Data prep for edna and camera traps from edna.full and ct.full
-edna.full <- read_csv("edna.full.csv")
-ct.full <- read_csv("ct.full.csv")
+edna.full <- read_csv("edna.sample.csv")
+ct.full <- read_csv("ct.sample.csv")
 
 # Create the contingency tables
 glimpse(edna.full)
