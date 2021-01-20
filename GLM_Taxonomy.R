@@ -6,11 +6,11 @@
 ## Last update December 17th 2020
 ##
 ## Code for the GLM shown on Figure 4 and Supplementary Tables 2a and 2b
-## 1. 
-## 2. function to create list of all possible combinations from a list of parameters
+## 1. Packages
+## 2. Function to create list of all possible combinations from a list of parameters
 ## 3. Loading the row edna and camera trapping tables
 ## 4. Preparation of the files for the analysis
-## 5. R
+## 5. Modeling and model selection
 #######################################################################################################################
 rm(list=ls(all=TRUE))
 
