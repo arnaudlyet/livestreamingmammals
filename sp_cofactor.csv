@@ -1,0 +1,30 @@
+﻿taxa,gp,diet,weight
+Ursus arctos,Bears,mixed,245
+Ursus americanus,Bears,mixed,145
+Canis lupus,Canids,animal,45.5
+Canis familiaris,Canids,mixed,45.5
+Canis spp,Canids,mixed,37.5
+Canis latrans,Canids,mixed,13.5
+Vulpes vulpes,Canids,mixed,5
+Puma concolor,Felids,animal,75
+Lynx canadensis,Felids,animal,11
+Lynx rufus,Felids,animal,10.5
+Lepus americanus,Lagomorphs,plant,1.6
+Gulo gulo,Mustellids,animal,11
+Martes pennanti,Mustellids,animal,3.5
+Mustela frenata,Mustellids,animal,0.25
+Mustela erminea,Mustellids,animal,0.07
+Mustela nivalis,Mustellids,animal,0.04
+Mephitis mephitis,Mustellids,mixed,3.25
+Martes americana,Mustellids,mixed,0.35
+Erethizon dorsatum,Ground rodents,plant,11
+Marmota caligata,Ground rodents,plant,4
+Neotoma cinerea,Ground rodents,plant,0.37
+Glaucomys sabrinus,Arboreal rodents,plant,0.11
+Tamiasciurus hudsonicus,Arboreal rodents,mixed,0.2
+Tamias amoenus,Ground rodents,mixed,0.04
+Equus caballus,Ungulates,plant,465
+Alces alces,Ungulates,plant,430
+Bos taurus,Ungulates,plant,363
+Odocoileus hemionus,Ungulates,plant,75
+Mouse spp,Ground rodents,plant,0.03
