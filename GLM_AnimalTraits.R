@@ -57,6 +57,7 @@ sp.fact <- read_csv("sp_cofactor.csv") # describes diet and average weight of ea
 # Matching eDNA sites/samples with camera traps species detections within catchment
 # Spatial design vs CT 2018
 edna.ct.match.2018 <- edna.ct.match %>% filter(year==2018)
+ct.names <- colnames(edna.ct.match.2018)[5:66]
 output.2018 <- NULL
 
 for (i in 1:nrow(edna.ct.match.2018)) {
