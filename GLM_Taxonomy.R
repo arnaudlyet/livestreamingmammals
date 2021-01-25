@@ -55,6 +55,7 @@ ct.2019 <- read_csv(file="ct_2019.csv")
 # Matching eDNA sites/samples with camera traps species detections within catchment
 # Spatial design vs CT 2018
 edna.ct.match.2018 <- edna.ct.match %>% filter(year==2018)
+ct.names <- colnames(edna.ct.match.2018)[5:66]
 output.2018 <- NULL
 
 for (i in 1:nrow(edna.ct.match.2018)) {
